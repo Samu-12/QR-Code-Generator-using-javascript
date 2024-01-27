@@ -9,6 +9,17 @@ body{
     background: #3b1143;
 }
 
+h1{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    color: #fff;
+}
+
+h1:hover{
+    color: black;
+}
+
 .container{
     width: 400px;
     padding: 25px 35px;
